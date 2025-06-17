@@ -23,7 +23,8 @@ div.xvbhtw8.x6usi7g.x18b5jzi.x1lun4ml.x9f619.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x
 body{
   width: 768px;
   margin: auto;
-  border: 1px black solid;
+  border-inline: 5px #3797f0 solid;
+  border-radius: 5px
 }
 
 html{
