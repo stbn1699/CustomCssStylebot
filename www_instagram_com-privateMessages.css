@@ -1,11 +1,19 @@
 /* Global */
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
 
 /* body */
 body{
   width: 850px;
   margin: auto;
   border-inline: 5px #3797f0 solid;
-  border-radius: 5px
+  border-radius: 5px;
+}
+
+/* all elements */
+*,
+*::before,
+*::after {
+  font-family: 'Lexend', sans-serif !important;
 }
 
 /* html */
@@ -95,7 +103,7 @@ div.x1i10hfl.xjbqb8w.x1ejq31n.x18oe1m7.x1sy0etr.xstzfhl.x972fbf.x10w94by.x1qhh98
   max-width: 90px;
   background-color: #F6F6F6;
   border-radius: 5px;
-  margin: 5px
+  margin: 5px auto;
 }
 
 /* Requests button */
