@@ -1,5 +1,5 @@
 /* Global */
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap');
 
 /* body */
 body{
@@ -18,7 +18,7 @@ body{
 
 /* html */
 html{
-  background-color: darkslategrey
+  background-color: darkslategrey;
 }
 
 /* scrollbar */
@@ -124,4 +124,13 @@ div.x6s0dn4.x1bs97v6.x1q0q8m5.x9f619.xat24cr.xh8yej3.x1qhh985.x14z7g9a.xzbw6zd.x
   height: 50px;
   min-height: 50px;
   max-height: 50px;
+}
+
+div.x1ey2m1c.xtijo5x.x1o0tod.xixxii4.x13vifvy.x1h0vfkc {
+  background-color: darkslategrey;
+}
+
+/* search button */
+label.x6s0dn4.x5ur3kl.x6usi7g.x1bs97v6.x18dxpii.x1lv5crc.x1ojqjes.x1mr1won.xdy5mtz.x178xt8z.x1lun4ml.xso031l.xpilrb4.x78zum5.x1iyjqo2.xg7h5cd.x1qughib.xf159sx.x1n2onr6.xnz67gz.x1ejq31n.x18oe1m7.x1sy0etr.xstzfhl.xzd0ubt {
+  width: 230px;
 }
