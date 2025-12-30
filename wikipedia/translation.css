@@ -1,0 +1,17 @@
+section.ve-ce-cxSectionNode {
+  background: #fdf0d5;
+  border: 1px solid rgba(0,0,0,0.15);
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 16px;
+  transition: background 0.15s ease, box-shadow 0.15s ease;
+}
+
+section.ve-ce-cxSectionNode:hover {
+  background: #ede0c7;
+}
+
+section.ve-ce-cxSectionNode:focus-within {
+  background: #fafafa;
+  box-shadow: 0 0 0 2px rgba(0,0,0,0.08);
+}
